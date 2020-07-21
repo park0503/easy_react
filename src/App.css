@@ -1,0 +1,38 @@
+html,
+body,
+#root,
+.container {
+  height: 100%;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+}
+
+.loader {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.movies {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 80%;
+  padding-top: 70px;
+  padding: 50px;
+}
+
+.movies .movie {
+  width: 45%;
+  background-color: white;
+  display: flex;
+  margin-bottom: 70px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 5px;
+}
