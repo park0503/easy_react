@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/easy_react/static/css/main.2665b833.chunk.css",
-    "main.js": "/easy_react/static/js/main.f2eddb60.chunk.js",
-    "main.js.map": "/easy_react/static/js/main.f2eddb60.chunk.js.map",
+    "main.css": "/easy_react/static/css/main.75346b51.chunk.css",
+    "main.js": "/easy_react/static/js/main.a5e3e141.chunk.js",
+    "main.js.map": "/easy_react/static/js/main.a5e3e141.chunk.js.map",
     "runtime-main.js": "/easy_react/static/js/runtime-main.10abbc9c.js",
     "runtime-main.js.map": "/easy_react/static/js/runtime-main.10abbc9c.js.map",
-    "static/js/2.b81ddb03.chunk.js": "/easy_react/static/js/2.b81ddb03.chunk.js",
-    "static/js/2.b81ddb03.chunk.js.map": "/easy_react/static/js/2.b81ddb03.chunk.js.map",
+    "static/js/2.5ec01876.chunk.js": "/easy_react/static/js/2.5ec01876.chunk.js",
+    "static/js/2.5ec01876.chunk.js.map": "/easy_react/static/js/2.5ec01876.chunk.js.map",
     "index.html": "/easy_react/index.html",
-    "precache-manifest.25f513358221824b8bbb952a903ec66a.js": "/easy_react/precache-manifest.25f513358221824b8bbb952a903ec66a.js",
+    "precache-manifest.ab833282b998d8e0326c778382f7ce86.js": "/easy_react/precache-manifest.ab833282b998d8e0326c778382f7ce86.js",
     "service-worker.js": "/easy_react/service-worker.js",
-    "static/css/main.2665b833.chunk.css.map": "/easy_react/static/css/main.2665b833.chunk.css.map",
-    "static/js/2.b81ddb03.chunk.js.LICENSE.txt": "/easy_react/static/js/2.b81ddb03.chunk.js.LICENSE.txt"
+    "static/css/main.75346b51.chunk.css.map": "/easy_react/static/css/main.75346b51.chunk.css.map",
+    "static/js/2.5ec01876.chunk.js.LICENSE.txt": "/easy_react/static/js/2.5ec01876.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.10abbc9c.js",
-    "static/js/2.b81ddb03.chunk.js",
-    "static/css/main.2665b833.chunk.css",
-    "static/js/main.f2eddb60.chunk.js"
+    "static/js/2.5ec01876.chunk.js",
+    "static/css/main.75346b51.chunk.css",
+    "static/js/main.a5e3e141.chunk.js"
   ]
 }
